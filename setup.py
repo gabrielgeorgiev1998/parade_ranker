@@ -19,7 +19,7 @@ setuptools.setup(
     name="ParadeRanker",
     version="0.0.1",
     author="GabrielGeorgiev",
-    author_email='gabrielgeorgiev1998{at}.gmail.com,
+    author_email='gabrielgeorgiev1998{at}.gmail.com',
     description="PARADE implementation for PyTerrier",
     long_description=long_description,
     long_description_content_type="text/markdown",
